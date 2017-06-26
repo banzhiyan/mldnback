@@ -10,3 +10,5 @@ public class emp{
    }
    System.out.println("***************");
 }
+System.out.println("+++++++++++++++++++++++++");
+System.out.println("%%%%%%%%%%%%%%%%%%%%%");

@@ -16,3 +16,11 @@ System.out.println("%%%%%%%%%%%%%%%%%%%%%");
 	 System.out.println("22222222");
 }
 
+public void test(){
+
+System.out.println("+++++++++++++++++++++++++");
+System.out.println("%%%%%%%%%%%%%%%%%%%%%");
+    System.out.println("+++++++++++++++++");
+	 System.out.println("22222222");
+}
+
